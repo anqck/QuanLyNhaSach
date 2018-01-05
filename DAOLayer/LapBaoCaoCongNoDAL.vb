@@ -63,7 +63,7 @@ Public Class LapBaoCaoCongNoDAL
 
     Public Shared Function getNoCuoiCuaThang(month As Integer, year As Integer) As Dictionary(Of String, Integer)
         Dim res As New Dictionary(Of String, Integer)
-        Dim strCommand As String = "Select  MaSach, NoCuoi From CHITIETBAOCONGNO, BAOCAOCONGNO Where CHITIETBAOCAOCONGNO.MaBaoCaoCongNo = BAOCAOCONGNO.MaBaoCaoCongNo And month(BAOCAOCONGNO.ThangBaoCao) = '$0' AND YEAR(BAOCAOCONGNO.ThangBaoCao) = '$1'"
+        Dim strCommand As String = "Select  MaKhachHang, NoCuoi From CHITIETBAOCAOCONGNO, BAOCAOCONGNO Where CHITIETBAOCAOCONGNO.MaBaoCaoCongNo = BAOCAOCONGNO.MaBaoCaoCongNo And month(BAOCAOCONGNO.ThangBaoCao) = '$0' AND YEAR(BAOCAOCONGNO.ThangBaoCao) = '$1'"
 
         strCommand = strCommand.Replace("$0", month)
         strCommand = strCommand.Replace("$1", year)
