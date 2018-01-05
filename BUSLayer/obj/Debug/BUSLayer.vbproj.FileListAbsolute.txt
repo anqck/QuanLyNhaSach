@@ -1,0 +1,60 @@
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\bin\Debug\BUSLayer.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\bin\Debug\BUSLayer.pdb
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\bin\Debug\BUSLayer.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\bin\Debug\DALLayer.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\bin\Debug\DTO.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\bin\Debug\DALLayer.pdb
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\bin\Debug\DALLayer.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\bin\Debug\DTO.pdb
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\bin\Debug\DTO.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.vbprojResolveAssemblyReference.cache
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.Resources.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.vbproj.GenerateResource.Cache
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.pdb
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\bin\Debug\BUSLayer.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\bin\Debug\BUSLayer.pdb
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\bin\Debug\BUSLayer.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\bin\Debug\DALLayer.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\bin\Debug\DTO.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\bin\Debug\DALLayer.pdb
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\bin\Debug\DALLayer.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\bin\Debug\DTO.pdb
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\bin\Debug\DTO.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.vbprojResolveAssemblyReference.cache
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.Resources.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.vbproj.GenerateResource.Cache
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.pdb
+E:\QuanLyNhaSach\BUSLayer\bin\Debug\BUSLayer.dll
+E:\QuanLyNhaSach\BUSLayer\bin\Debug\BUSLayer.pdb
+E:\QuanLyNhaSach\BUSLayer\bin\Debug\BUSLayer.xml
+E:\QuanLyNhaSach\BUSLayer\bin\Debug\DALLayer.dll
+E:\QuanLyNhaSach\BUSLayer\bin\Debug\DTO.dll
+E:\QuanLyNhaSach\BUSLayer\bin\Debug\DALLayer.pdb
+E:\QuanLyNhaSach\BUSLayer\bin\Debug\DALLayer.xml
+E:\QuanLyNhaSach\BUSLayer\bin\Debug\DTO.pdb
+E:\QuanLyNhaSach\BUSLayer\bin\Debug\DTO.xml
+E:\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.vbprojResolveAssemblyReference.cache
+E:\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.Resources.resources
+E:\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.vbproj.GenerateResource.Cache
+E:\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.dll
+E:\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.xml
+E:\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.pdb
+D:\GitHub\QuanLyNhaSach\BUSLayer\bin\Debug\BUSLayer.dll
+D:\GitHub\QuanLyNhaSach\BUSLayer\bin\Debug\BUSLayer.pdb
+D:\GitHub\QuanLyNhaSach\BUSLayer\bin\Debug\BUSLayer.xml
+D:\GitHub\QuanLyNhaSach\BUSLayer\bin\Debug\DALLayer.dll
+D:\GitHub\QuanLyNhaSach\BUSLayer\bin\Debug\DTO.dll
+D:\GitHub\QuanLyNhaSach\BUSLayer\bin\Debug\DALLayer.pdb
+D:\GitHub\QuanLyNhaSach\BUSLayer\bin\Debug\DALLayer.xml
+D:\GitHub\QuanLyNhaSach\BUSLayer\bin\Debug\DTO.pdb
+D:\GitHub\QuanLyNhaSach\BUSLayer\bin\Debug\DTO.xml
+D:\GitHub\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.vbprojResolveAssemblyReference.cache
+D:\GitHub\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.Resources.resources
+D:\GitHub\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.vbproj.GenerateResource.Cache
+D:\GitHub\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.dll
+D:\GitHub\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.xml
+D:\GitHub\QuanLyNhaSach\BUSLayer\obj\Debug\BUSLayer.pdb

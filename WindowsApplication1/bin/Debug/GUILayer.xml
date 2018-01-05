@@ -1,0 +1,627 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GUILayer
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApplication1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.bouser_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.cancel_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.edittask_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.encrypt_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.iconAdd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.iconSave">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.unprotectdocument_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.usergroup_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:WindowsApplication1.PrintRibbonControllerResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ClosePreview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ClosePreviewLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Customize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_CustomizeLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Document">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_DocumentMap">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_DocumentMapLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_EditPageHF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_EditPageHFLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportCsv">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportCsvLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportFile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportFileLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportGraphic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportGraphicLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportHtm">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportHtmLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportMht">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportMhtLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportPdf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportPdfLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportRtf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportRtfLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportTxt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportTxtLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportXls">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsx">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsxLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_FillBackground">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_FillBackgroundLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Find">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_FindLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_HandTool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Magnifier">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_MultiplePages">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_MultiplePagesLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Open">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_OpenLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PageMargins">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsModerate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsNarrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsNormal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsWide">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientationLandscape">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientationLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientationPortrait">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PageSetupDialog">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_A3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_A4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_A5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_A6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_Executive">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_Legal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_Letter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_Tabloid">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PaperSize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PaperSizeLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Parameters">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ParametersLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Pointer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Print">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PrintDirect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PrintDirectLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PrintLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PrintSetup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_PrintSetupLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SaveLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Scale">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ScaleLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendCsv">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendCsvLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendFile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendFileLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendGraphic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendGraphicLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendMht">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendMhtLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendPdf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendPdfLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendRtf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendRtfLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendTxt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendTxtLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendXls">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsx">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsxLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ShowFirstPage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ShowFirstPageLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ShowLastPage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ShowLastPageLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ShowNextPage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ShowNextPageLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ShowPrevPage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ShowPrevPageLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Thumbnails">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ThumbnailsLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Watermark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_WatermarkLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_Zoom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ZoomIn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ZoomInLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ZoomLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ZoomOut">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.PrintRibbonControllerResources.RibbonPrintPreview_ZoomOutLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

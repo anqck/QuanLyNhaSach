@@ -1,0 +1,1172 @@
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.exe.config
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.exe
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.pdb
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\BUSLayer.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DALLayer.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Charts.v16.1.Core.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.CodeParser.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v16.1.UI.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.PivotGrid.v16.1.Core.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v16.1.UI.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v16.1.Extensions.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGauges.v16.1.Core.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPivotGrid.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DTO.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Xpo.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraDiagram.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Diagram.v16.1.Core.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\BUSLayer.pdb
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\BUSLayer.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DALLayer.pdb
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DALLayer.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DTO.pdb
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DTO.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v16.1.UI.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.PivotGrid.v16.1.Core.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v16.1.UI.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGauges.v16.1.Core.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPivotGrid.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Xpo.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraDiagram.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Diagram.v16.1.Core.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraReports.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraReports.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraReports.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraReports.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.vbprojResolveAssemblyReference.cache
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmMain.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThemKhachHangGUI.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThemSachGUI.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmWelcome.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPhieuNhapSachGUI.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.vbproj.GenerateResource.Cache
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.exe.licenses
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.exe
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.pdb
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmHoaDonBanSachGUI.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmTraCuuSachGUI.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChonSach.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChonKhachHang.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThayDoiQuyDinhGUI.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Spreadsheet.v16.1.Core.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraSpreadsheet.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Spreadsheet.v16.1.Core.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraSpreadsheet.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Spreadsheet.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Spreadsheet.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Spreadsheet.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Spreadsheet.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraSpreadsheet.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraSpreadsheet.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraSpreadsheet.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraSpreadsheet.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v16.1.Core.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v16.1.Extensions.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v16.1.UI.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v16.1.Extensions.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v16.1.Core.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v16.1.Extensions.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v16.1.UI.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v16.1.Extensions.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Snap.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Snap.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Snap.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Snap.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Snap.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Snap.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Snap.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Snap.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Snap.v16.1.Extensions.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Snap.v16.1.Extensions.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Snap.v16.1.Extensions.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Snap.v16.1.Extensions.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v16.1.Extensions.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v16.1.Extensions.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v16.1.Extensions.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v16.1.Extensions.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPdfViewer.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPdfViewer.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraPdfViewer.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraPdfViewer.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraPdfViewer.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraPdfViewer.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.ExpressApp.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Persistent.Base.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.ExpressApp.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Persistent.Base.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.ExpressApp.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.ExpressApp.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.ExpressApp.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.ExpressApp.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportDanhSachSach.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportPhieuThuTien.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPreview.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPhieuThuTienGUI.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.PrintRibbonControllerResources.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v16.1.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v16.1.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.xml
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraScheduler.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraScheduler.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmLapBaoCaoTonGUI.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.WaitForm1.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportBaoCaoTon.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChinhSuaSachGUI.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportHoaDonBanSach.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmTraCuuKhachHangGUI.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportDanhSachKhachHang.resources
+C:\Users\khanh\Documents\Visual Studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmLapBaoCaoCongNoGUI.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.exe.config
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.exe
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.pdb
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\BUSLayer.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DALLayer.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Data.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.ExpressApp.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v17.1.Drawing.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Persistent.Base.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.Core.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.Extensions.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPdfViewer.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v17.1.Extensions.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DTO.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\BUSLayer.pdb
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\BUSLayer.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DALLayer.pdb
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DALLayer.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DTO.pdb
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DTO.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Data.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.ExpressApp.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v17.1.Drawing.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Persistent.Base.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.Core.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.Extensions.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPdfViewer.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v17.1.Extensions.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.ExpressApp.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.ExpressApp.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.ExpressApp.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.ExpressApp.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Snap.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Snap.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Snap.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Snap.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Snap.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Snap.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Snap.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Snap.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Snap.v17.1.Extensions.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Snap.v17.1.Extensions.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Snap.v17.1.Extensions.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Snap.v17.1.Extensions.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraPdfViewer.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraPdfViewer.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraPdfViewer.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraPdfViewer.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.vbprojResolveAssemblyReference.cache
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmLapBaoCaoCongNoGUI.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmLapBaoCaoTonGUI.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.WaitForm1.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThayDoiQuyDinhGUI.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChonKhachHang.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmTraCuuKhachHangGUI.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.PrintRibbonControllerResources.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPreview.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportBaoCaoTon.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportDanhSachKhachHang.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportDanhSachSach.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportHoaDonBanSach.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportPhieuThuTien.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChinhSuaSachGUI.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChonSach.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmHoaDonBanSachGUI.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmMain.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPhieuThuTienGUI.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThemKhachHangGUI.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThemSachGUI.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmWelcome.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPhieuNhapSachGUI.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmTraCuuSachGUI.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.vbproj.GenerateResource.Cache
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.exe.licenses
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.exe
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.xml
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.pdb
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmDangnhap.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPhanquyen.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThemNguoiDung.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmSuaNguoiDung.resources
+D:\UIT\2017 ky 5\OOAD\temp\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmDoiMatKhau.resources
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.exe.config
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.exe
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.pdb
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\BUSLayer.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DALLayer.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.CodeParser.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Data.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.ExpressApp.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v17.1.Drawing.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Persistent.Base.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.Core.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.Extensions.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Xpo.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPdfViewer.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v17.1.Extensions.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DTO.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\BUSLayer.pdb
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\BUSLayer.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DALLayer.pdb
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DALLayer.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DTO.pdb
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DTO.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Data.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.ExpressApp.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v17.1.Drawing.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Persistent.Base.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.Core.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.Extensions.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Xpo.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPdfViewer.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v17.1.Extensions.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.ExpressApp.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.ExpressApp.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.ExpressApp.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.ExpressApp.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Snap.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Snap.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Snap.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Snap.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Snap.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Snap.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Snap.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Snap.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Snap.v17.1.Extensions.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Snap.v17.1.Extensions.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Snap.v17.1.Extensions.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Snap.v17.1.Extensions.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraPdfViewer.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraPdfViewer.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraPdfViewer.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraPdfViewer.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.vbprojResolveAssemblyReference.cache
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmLapBaoCaoCongNoGUI.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmLapBaoCaoTonGUI.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.WaitForm1.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmDoiMatKhau.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPhanquyen.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmDangnhap.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThayDoiQuyDinhGUI.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmSuaNguoiDung.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThemNguoiDung.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChonKhachHang.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmTraCuuKhachHangGUI.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.PrintRibbonControllerResources.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPreview.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportBaoCaoTon.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportDanhSachKhachHang.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportDanhSachSach.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportHoaDonBanSach.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportPhieuThuTien.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChinhSuaSachGUI.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChonSach.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmHoaDonBanSachGUI.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmMain.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPhieuThuTienGUI.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThemKhachHangGUI.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThemSachGUI.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmWelcome.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPhieuNhapSachGUI.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmTraCuuSachGUI.resources
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.vbproj.GenerateResource.Cache
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.exe.licenses
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.exe
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.xml
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.pdb
+E:\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChinhSuaKhachHangGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.exe.config
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.exe
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.pdb
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.vbprojResolveAssemblyReference.cache
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmLapBaoCaoCongNoGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmLapBaoCaoTonGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.WaitForm1.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmDoiMatKhau.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPhanquyen.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmDangnhap.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThayDoiQuyDinhGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmSuaNguoiDung.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThemNguoiDung.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChinhSuaKhachHangGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChonKhachHang.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmTraCuuKhachHangGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.PrintRibbonControllerResources.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPreview.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportBaoCaoTon.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportDanhSachKhachHang.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportDanhSachSach.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportHoaDonBanSach.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportPhieuThuTien.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChinhSuaSachGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmChonSach.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmHoaDonBanSachGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmMain.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPhieuThuTienGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThemKhachHangGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmThemSachGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmWelcome.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmPhieuNhapSachGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.frmTraCuuSachGUI.resources
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.vbproj.GenerateResource.Cache
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\GUILayer.exe.licenses
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.exe
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.pdb
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\GUILayer.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\BUSLayer.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DALLayer.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Data.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.ExpressApp.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v17.1.Drawing.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Persistent.Base.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.Core.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.Extensions.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPdfViewer.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v17.1.Extensions.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DTO.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\BUSLayer.pdb
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\BUSLayer.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DALLayer.pdb
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DALLayer.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DTO.pdb
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DTO.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Data.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.ExpressApp.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Pdf.v17.1.Drawing.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Persistent.Base.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.Core.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Snap.v17.1.Extensions.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPdfViewer.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraRichEdit.v17.1.Extensions.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.Extensions.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.ExpressApp.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.ExpressApp.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.ExpressApp.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.ExpressApp.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Snap.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Snap.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Snap.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Snap.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Snap.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Snap.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Snap.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Snap.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Snap.v17.1.Extensions.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Snap.v17.1.Extensions.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Snap.v17.1.Extensions.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Snap.v17.1.Extensions.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraPdfViewer.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraPdfViewer.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraPdfViewer.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraPdfViewer.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll

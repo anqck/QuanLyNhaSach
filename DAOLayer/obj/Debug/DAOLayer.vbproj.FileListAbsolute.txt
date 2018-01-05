@@ -1,0 +1,9 @@
+c:\users\khanh\documents\visual studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\DAOLayer\bin\Debug\DAOLayer.dll
+c:\users\khanh\documents\visual studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\DAOLayer\bin\Debug\DAOLayer.pdb
+c:\users\khanh\documents\visual studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\DAOLayer\bin\Debug\DAOLayer.xml
+c:\users\khanh\documents\visual studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\DAOLayer\obj\Debug\DAOLayer.vbprojResolveAssemblyReference.cache
+c:\users\khanh\documents\visual studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\DAOLayer\obj\Debug\DAOLayer.Resources.resources
+c:\users\khanh\documents\visual studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\DAOLayer\obj\Debug\DAOLayer.vbproj.GenerateResource.Cache
+c:\users\khanh\documents\visual studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\DAOLayer\obj\Debug\DAOLayer.dll
+c:\users\khanh\documents\visual studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\DAOLayer\obj\Debug\DAOLayer.xml
+c:\users\khanh\documents\visual studio 2015\Projects\18.4.2017\Report\QuanLyNhaSach\DAOLayer\obj\Debug\DAOLayer.pdb
