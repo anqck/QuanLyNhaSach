@@ -55,4 +55,9 @@ Public Class KhachHangBUS
     Public Shared Sub CapNhatKhachHang(khachhangDTO As KhachHangDTO)
         KhachHangDAL.CapNhatKhachHang(khachhangDTO)
     End Sub
+
+    Public Shared Function LayTatCaKhachHangVaoDictionary() As Dictionary(Of String, KhachHangDTO)
+        Return KhachHangDAL.LayTatCaKhachHangVaoDictionary()
+
+    End Function
 End Class

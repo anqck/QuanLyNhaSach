@@ -123,24 +123,25 @@ Public Class frmLapBaoCaoCongNoGUI
             dt.Rows.Add(dt.Rows.Count, khachhangINFO.StrMaKhachHang, khachhangINFO.StrHoTenKhachHang, khachhangINFO.StrDiaChi, If(nodau.ContainsKey(khachhangINFO.StrMaKhachHang), nodau(khachhangINFO.StrMaKhachHang), 0), If(phatsinhthu.ContainsKey(khachhangINFO.StrMaKhachHang), phatsinhthu(khachhangINFO.StrMaKhachHang), 0) - If(phatsinhban.ContainsKey(khachhangINFO.StrMaKhachHang), phatsinhban(khachhangINFO.StrMaKhachHang), 0), If(nodau.ContainsKey(khachhangINFO.StrMaKhachHang), nodau(khachhangINFO.StrMaKhachHang), 0) + If(phatsinhthu.ContainsKey(khachhangINFO.StrMaKhachHang), phatsinhthu(khachhangINFO.StrMaKhachHang), 0) - If(phatsinhban.ContainsKey(khachhangINFO.StrMaKhachHang), phatsinhban(khachhangINFO.StrMaKhachHang), 0))
         Next
 
-        'Lưu báo cáo tồn
-        Dim BaoCaoDTO As New BaoCaoTonDTO
-        BaoCaoDTO.StrMaBaoCaoTon = LapBaoCaoTonBUS.PhatSinhMaBaoCaoTon()
-        BaoCaoDTO.DateThangBaoCao = dateThangBaoCao.DateTime
+        'Lưu báo cáo công nợ
+        Dim tempBaoCaoDTO1 As New BaoCaoCongNoDTO
+        tempBaoCaoDTO1.StrMaBaoCaoCongNo = LapBaoCaoTonBUS.PhatSinhMaBaoCaoCongNo()
+        tempBaoCaoDTO1.DateThangBaoCao = dateThangBaoCao.DateTime
 
-        LapBaoCaoTonBUS.LuuBaoCaoTon(BaoCaoDTO)
+        LapBaoCaoCongNoBUS.LuuBaoCaoCongNo(tempBaoCaoDTO1)
 
         'Lưu chi tiết báo cáo tồn
         For Each row In dt.Rows
-            Dim ChiTietBaoCaoDTO = New ChiTietBaoCaoTonDTO
-            ChiTietBaoCaoDTO.StrMaBaoCaoTon = BaoCaoDTO.StrMaBaoCaoTon
-            ChiTietBaoCaoDTO.StrMaChiTietBaoCaoTon = LapBaoCaoTonBUS.PhatSinhMaChiTietBaoCaoTon()
-            ChiTietBaoCaoDTO.StrMaSach = row("clmMaSach")
-            ChiTietBaoCaoDTO.ITonDau = row("clmTonDau")
-            ChiTietBaoCaoDTO.ITonPhatSinh = row("clmTonPhatSinh")
-            ChiTietBaoCaoDTO.ITonCuoi = row("clmTonCuoi")
+            Dim ChiTietBaoCaoDTO1 = New ChiTietBaoCaoCongNoDTO
+            ChiTietBaoCaoDTO1.StrMaChiTietBaoCaoCongNo = LapBaoCaoCongNoBUS.PhatSinhMaChiTietBaoCaoCongNo()
+            ChiTietBaoCaoDTO1.StrMaBaoCaoCongNo = tempBaoCaoDTO1.StrMaBaoCaoCongNo
+            ChiTietBaoCaoDTO1.StrMaKhachHang = row("clmMaKhachHang")
+            ChiTietBaoCaoDTO1.INoDau = row("clmNoDau")
+            ChiTietBaoCaoDTO1.INoPhatSinh = row("clmNoPhatSinh")
+            ChiTietBaoCaoDTO1.INoCuoi = row("clmNoCuoi")
 
-            LapBaoCaoTonBUS.LuuChiTietBaoCaoTon(ChiTietBaoCaoDTO)
+
+            LapBaoCaoCongNoBUS.LuuChiTietBaoCaoCongNo(ChiTietBaoCaoDTO1)
         Next
 
         SplashScreenManager1.CloseWaitForm()
@@ -162,15 +163,15 @@ Public Class frmLapBaoCaoCongNoGUI
 
             SplashScreenManager1.ShowWaitForm()
 
-            'M viet roi chay thu di chu
 
             Dim dt1 As DataTable = LapBaoCaoCongNoBUS.getBaoCaoThang(dateThangBaoCao.DateTime.Month, dateThangBaoCao.DateTime.Year)
-            Dim dicSachINFO As Dictionary(Of String, SachDTO) = SachBUS.LayTatCaSachVaoDictionary()
+            Dim dicSachINFO As Dictionary(Of String, KhachHangDTO) = KhachHangBUS.LayTatCaKhachHangVaoDictionary()
+
 
             For Each row In dt1.Rows
-                Dim sachINFO As SachDTO = dicSachINFO(row("MaSach"))
+                Dim khachhangINFO As KhachHangDTO = dicSachINFO(row("MaKhachHang"))
                 'Dim sachINFO As SachDTO = SachBUS.LaySachDTO(row("MaSach"))
-                dt.Rows.Add(dt.Rows.Count, sachINFO.StrMaSach, sachINFO.StrTenSach, sachINFO.StrTheLoai, sachINFO.StrTacGia, row("TonDau"), row("TonPhatSinh"), row("TonCuoi"))
+                dt.Rows.Add(dt.Rows.Count, khachhangINFO.StrMaKhachHang, khachhangINFO.StrHoTenKhachHang, khachhangINFO.StrDiaChi, row("NoDau"), row("NoPhatSinh"), row("NoCuoi"))
             Next
 
             SplashScreenManager1.CloseWaitForm()
@@ -180,5 +181,10 @@ Public Class frmLapBaoCaoCongNoGUI
         Else
             btnLapBaoCaoTon.Enabled = True
         End If
+    End Sub
+
+    Private Sub btnXuatBaoCao_Click(sender As Object, e As EventArgs) Handles btnXuatBaoCao.Click
+        Dim frmPrint As New frmPreview(New BaoCaoCongNoINFO(dt, dateThangBaoCao.DateTime))
+        frmPrint.ShowDialog()
     End Sub
 End Class

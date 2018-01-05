@@ -48,6 +48,12 @@
             Dim tempINFO As BaoCaoTonINFO = TryCast(PrintINFO, BaoCaoTonINFO)
 
             report.Tag = tempINFO
+        ElseIf (PrintINFO.GetType Is GetType(BaoCaoCongNoINFO)) Then
+            report = New reportBaoCaoCongNO
+
+            Dim tempINFO As BaoCaoCongNoINFO = TryCast(PrintINFO, BaoCaoCongNoINFO)
+
+            report.Tag = tempINFO
         ElseIf (PrintINFO.GetType Is GetType(HoaDonBanSachINFO)) Then
             report = New reportHoaDonBanSach
 
@@ -114,6 +120,19 @@ Public Class DanhSachKhachHangINFO
 End Class
 
 Public Class BaoCaoTonINFO
+    Inherits PrintINFO
+
+    Public dt As DataTable
+    Public dateThangBaoCao As DateTime
+
+    Public Sub New(dt As DataTable, dateThangNam As DateTime)
+        Me.dt = dt
+        Me.dateThangBaoCao = dateThangNam
+    End Sub
+
+End Class
+
+Public Class BaoCaoCongNoINFO
     Inherits PrintINFO
 
     Public dt As DataTable

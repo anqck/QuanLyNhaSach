@@ -45,6 +45,15 @@ Public Class LapBaoCaoCongNoDAL
         DataProvider.ExecuteNonQuery(strCommand)
     End Sub
 
+    Public Shared Function getBaoCaoThang(month As Integer, year As Integer) As DataTable
+        Dim strCommand As String = "Select  B.MaKhachHang, B.NoDau, B.NoPhatSinh, B.NoCuoi From BAOCAOCONGNO A, CHITIETBAOCAOCONGNO B Where A.MaBaoCaoCongNo = B.MaBaoCaoCongNo And month(A.ThangBaoCao) = '$0' AND YEAR(A.ThangBaoCao) = '$1'"
+
+        strCommand = strCommand.Replace("$0", month)
+        strCommand = strCommand.Replace("$1", year)
+
+        Return DataProvider.ExecuteQuery(strCommand)
+    End Function
+
     Public Shared Function getThangBaoCaoDauTien() As Date
         Dim strCommand = "SELECT Top 1 ThangBaoCao FROM BAOCAOCONGNO ORDER BY ThangBaoCao "
         Dim dt As DataTable = DataProvider.ExecuteQuery(strCommand)

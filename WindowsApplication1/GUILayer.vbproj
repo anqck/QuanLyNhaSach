@@ -256,6 +256,12 @@
     <Compile Include="Print\reportPhieuThuTien.vb">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Print\reportBaoCaoCongNo.Designer.vb">
+      <DependentUpon>reportBaoCaoCongNo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Print\reportBaoCaoCongNo.vb">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Sach\frmChinhSuaSachGUI.Designer.vb">
       <DependentUpon>frmChinhSuaSachGUI.vb</DependentUpon>
     </Compile>
@@ -375,6 +381,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Print\frmPreview.resx">
       <DependentUpon>frmPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print\reportBaoCaoCongNO.resx">
+      <DependentUpon>reportBaoCaoCongNo.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Print\reportBaoCaoTon.resx">
       <DependentUpon>reportBaoCaoTon.vb</DependentUpon>

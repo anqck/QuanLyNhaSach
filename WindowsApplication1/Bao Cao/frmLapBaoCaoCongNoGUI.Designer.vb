@@ -62,7 +62,7 @@ Partial Class frmLapBaoCaoCongNoGUI
         Me.PanelControl1.Controls.Add(Me.lblMain)
         Me.PanelControl1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.PanelControl1.Location = New System.Drawing.Point(0, 0)
-        Me.PanelControl1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.PanelControl1.Margin = New System.Windows.Forms.Padding(4)
         Me.PanelControl1.Name = "PanelControl1"
         Me.PanelControl1.Size = New System.Drawing.Size(1085, 567)
         Me.PanelControl1.TabIndex = 0
@@ -75,7 +75,7 @@ Partial Class frmLapBaoCaoCongNoGUI
         Me.grpChiTietHoaDon.CaptionImageOptions.Image = CType(resources.GetObject("grpChiTietHoaDon.CaptionImageOptions.Image"), System.Drawing.Image)
         Me.grpChiTietHoaDon.Controls.Add(Me.Grid)
         Me.grpChiTietHoaDon.Location = New System.Drawing.Point(16, 155)
-        Me.grpChiTietHoaDon.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.grpChiTietHoaDon.Margin = New System.Windows.Forms.Padding(4)
         Me.grpChiTietHoaDon.Name = "grpChiTietHoaDon"
         Me.grpChiTietHoaDon.Size = New System.Drawing.Size(1053, 398)
         Me.grpChiTietHoaDon.TabIndex = 83
@@ -84,10 +84,10 @@ Partial Class frmLapBaoCaoCongNoGUI
         'Grid
         '
         Me.Grid.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.Grid.EmbeddedNavigator.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Grid.EmbeddedNavigator.Margin = New System.Windows.Forms.Padding(4)
         Me.Grid.Location = New System.Drawing.Point(2, 25)
         Me.Grid.MainView = Me.GridView
-        Me.Grid.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Grid.Margin = New System.Windows.Forms.Padding(4)
         Me.Grid.Name = "Grid"
         Me.Grid.RepositoryItems.AddRange(New DevExpress.XtraEditors.Repository.RepositoryItem() {Me.RepositoryItemComboBox1})
         Me.Grid.Size = New System.Drawing.Size(1049, 371)
@@ -216,7 +216,7 @@ Partial Class frmLapBaoCaoCongNoGUI
         '
         Me.btnXuatBaoCao.ImageOptions.Image = CType(resources.GetObject("btnXuatBaoCao.ImageOptions.Image"), System.Drawing.Image)
         Me.btnXuatBaoCao.Location = New System.Drawing.Point(765, 84)
-        Me.btnXuatBaoCao.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnXuatBaoCao.Margin = New System.Windows.Forms.Padding(4)
         Me.btnXuatBaoCao.Name = "btnXuatBaoCao"
         Me.btnXuatBaoCao.Size = New System.Drawing.Size(143, 28)
         Me.btnXuatBaoCao.TabIndex = 82
@@ -226,7 +226,7 @@ Partial Class frmLapBaoCaoCongNoGUI
         '
         Me.btnLapBaoCaoTon.ImageOptions.Image = CType(resources.GetObject("btnLapBaoCaoTon.ImageOptions.Image"), System.Drawing.Image)
         Me.btnLapBaoCaoTon.Location = New System.Drawing.Point(583, 84)
-        Me.btnLapBaoCaoTon.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnLapBaoCaoTon.Margin = New System.Windows.Forms.Padding(4)
         Me.btnLapBaoCaoTon.Name = "btnLapBaoCaoTon"
         Me.btnLapBaoCaoTon.Size = New System.Drawing.Size(175, 28)
         Me.btnLapBaoCaoTon.TabIndex = 81
@@ -237,7 +237,7 @@ Partial Class frmLapBaoCaoCongNoGUI
         Me.LabelControl1.Appearance.Font = New System.Drawing.Font("Tahoma", 11.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LabelControl1.Appearance.Options.UseFont = True
         Me.LabelControl1.Location = New System.Drawing.Point(164, 84)
-        Me.LabelControl1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.LabelControl1.Margin = New System.Windows.Forms.Padding(4)
         Me.LabelControl1.Name = "LabelControl1"
         Me.LabelControl1.Size = New System.Drawing.Size(199, 23)
         Me.LabelControl1.TabIndex = 80
@@ -247,7 +247,7 @@ Partial Class frmLapBaoCaoCongNoGUI
         '
         Me.dateThangBaoCao.EditValue = Nothing
         Me.dateThangBaoCao.Location = New System.Drawing.Point(385, 85)
-        Me.dateThangBaoCao.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.dateThangBaoCao.Margin = New System.Windows.Forms.Padding(4)
         Me.dateThangBaoCao.Name = "dateThangBaoCao"
         Me.dateThangBaoCao.Properties.Buttons.AddRange(New DevExpress.XtraEditors.Controls.EditorButton() {New DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)})
         Me.dateThangBaoCao.Properties.CalendarTimeProperties.Buttons.AddRange(New DevExpress.XtraEditors.Controls.EditorButton() {New DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)})
@@ -283,7 +283,7 @@ Partial Class frmLapBaoCaoCongNoGUI
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1085, 567)
         Me.Controls.Add(Me.PanelControl1)
-        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "frmLapBaoCaoCongNoGUI"
         Me.Text = "Lập Báo Cáo Công Nợ"
         CType(Me.PanelControl1, System.ComponentModel.ISupportInitialize).EndInit()

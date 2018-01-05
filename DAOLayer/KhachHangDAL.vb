@@ -67,6 +67,29 @@ Public Class KhachHangDAL
         Return res
     End Function
 
+    Public Shared Function LayTatCaKhachHangVaoDictionary() As Dictionary(Of String, KhachHangDTO)
+        Dim dt As New DataTable
+        dt = DataProvider.ExecuteQuery("Select * FROM KHACHHANG")
+
+        Dim res As New Dictionary(Of String, KhachHangDTO)
+
+        For i As Integer = 0 To dt.Rows.Count - 1
+            Dim khachhangINFO As New KhachHangDTO()
+
+            khachhangINFO.StrMaKhachHang = dt.Rows(i)("MaKhachHang")
+            khachhangINFO.StrDiaChi = dt.Rows(i)("HoTenKhachHang")
+            khachhangINFO.StrDienThoai = dt.Rows(i)("Email")
+            khachhangINFO.StrEmail = dt.Rows(i)("DienThoai")
+            khachhangINFO.StrHoTenKhachHang = dt.Rows(i)("DiaChi")
+            khachhangINFO.ISoTienNo = dt.Rows(i)("SoTienNo")
+
+
+            res.Add(khachhangINFO.StrMaKhachHang, khachhangINFO)
+        Next
+
+        Return res
+    End Function
+
     Public Shared Sub CapNhatKhachHang(khachhangDTO As KhachHangDTO)
         Dim strCommand As String = "UPDATE KHACHHANG SET HoTenKhachHang = '$0', Email = '$1', DienThoai = '$2', DiaChi = '$3' WHERE MaKhachHang = '$4'"
 

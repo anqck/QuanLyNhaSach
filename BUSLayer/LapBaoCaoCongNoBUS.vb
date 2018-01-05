@@ -45,6 +45,6 @@ Public Class LapBaoCaoCongNoBUS
     End Function
 
     Public Shared Function getBaoCaoThang(month As Integer, year As Integer) As DataTable
-        Throw New NotImplementedException()
+        Return LapBaoCaoCongNoDAL.getBaoCaoThang(month, year)
     End Function
 End Class

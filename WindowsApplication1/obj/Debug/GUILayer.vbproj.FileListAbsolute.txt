@@ -1170,3 +1170,4 @@ D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\de\DevExpress.XtraSchedule
 D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
 D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
 D:\GitHub\QuanLyNhaSach\WindowsApplication1\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\GitHub\QuanLyNhaSach\WindowsApplication1\obj\Debug\WindowsApplication1.reportBaoCaoCongNO.resources

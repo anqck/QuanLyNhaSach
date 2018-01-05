@@ -34,3 +34,15 @@ E:\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.vbproj.GenerateResource.Cache
 E:\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.dll
 E:\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.xml
 E:\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.pdb
+D:\GitHub\QuanLyNhaSach\DAOLayer\bin\Debug\DALLayer.dll
+D:\GitHub\QuanLyNhaSach\DAOLayer\bin\Debug\DALLayer.pdb
+D:\GitHub\QuanLyNhaSach\DAOLayer\bin\Debug\DALLayer.xml
+D:\GitHub\QuanLyNhaSach\DAOLayer\bin\Debug\DTO.dll
+D:\GitHub\QuanLyNhaSach\DAOLayer\bin\Debug\DTO.pdb
+D:\GitHub\QuanLyNhaSach\DAOLayer\bin\Debug\DTO.xml
+D:\GitHub\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.vbprojResolveAssemblyReference.cache
+D:\GitHub\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.Resources.resources
+D:\GitHub\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.vbproj.GenerateResource.Cache
+D:\GitHub\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.dll
+D:\GitHub\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.xml
+D:\GitHub\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.pdb
