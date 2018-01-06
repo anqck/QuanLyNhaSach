@@ -46,3 +46,15 @@ D:\GitHub\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.vbproj.GenerateResource.Cach
 D:\GitHub\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.dll
 D:\GitHub\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.xml
 D:\GitHub\QuanLyNhaSach\DAOLayer\obj\Debug\DALLayer.pdb
+D:\web\QUANLYNHASACHFINAL\DAOLayer\bin\Debug\DALLayer.dll
+D:\web\QUANLYNHASACHFINAL\DAOLayer\bin\Debug\DALLayer.pdb
+D:\web\QUANLYNHASACHFINAL\DAOLayer\bin\Debug\DALLayer.xml
+D:\web\QUANLYNHASACHFINAL\DAOLayer\bin\Debug\DTO.dll
+D:\web\QUANLYNHASACHFINAL\DAOLayer\bin\Debug\DTO.pdb
+D:\web\QUANLYNHASACHFINAL\DAOLayer\bin\Debug\DTO.xml
+D:\web\QUANLYNHASACHFINAL\DAOLayer\obj\Debug\DALLayer.vbprojResolveAssemblyReference.cache
+D:\web\QUANLYNHASACHFINAL\DAOLayer\obj\Debug\DALLayer.Resources.resources
+D:\web\QUANLYNHASACHFINAL\DAOLayer\obj\Debug\DALLayer.vbproj.GenerateResource.Cache
+D:\web\QUANLYNHASACHFINAL\DAOLayer\obj\Debug\DALLayer.dll
+D:\web\QUANLYNHASACHFINAL\DAOLayer\obj\Debug\DALLayer.xml
+D:\web\QUANLYNHASACHFINAL\DAOLayer\obj\Debug\DALLayer.pdb

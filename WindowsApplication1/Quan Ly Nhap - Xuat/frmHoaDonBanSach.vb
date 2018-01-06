@@ -244,7 +244,7 @@ Public Class frmHoaDonBanSachGUI
         HoaDonDTO.ITongThanhTien = txtTongThanhTien.Text
         HoaDonDTO.DateNgayLapHoaDon = dateNgayNhap.DateTime
 
-        Dim frmPrint As New frmPreview(New HoaDonBanSachINFO(dt, HoaDonDTO, Integer.Parse(txtTienNo.Text.Replace(",", ""))))
+        Dim frmPrint As New frmPreview(New HoaDonBanSachINFO(dt, HoaDonDTO, Integer.Parse(txtTienNo.Text.Replace(".", ""))))
         frmPrint.ShowDialog()
 
     End Sub

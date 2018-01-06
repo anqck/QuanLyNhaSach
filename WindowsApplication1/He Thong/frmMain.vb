@@ -16,7 +16,7 @@ Public Class frmMain
     End Sub
 
     Private Sub frmMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        DataProvider.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source= E:\QuanLyNhaSach\Database.mdb;Persist Security Info=False"
+        DataProvider.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source= D:\web\QUANLYNHASACHFINAL\Database.mdb;Persist Security Info=False"
 
         Dim frmWelcome As New frmWelcome
         frmWelcome.MdiParent = Me

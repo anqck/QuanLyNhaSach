@@ -52,6 +52,11 @@ GUILayer
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:WindowsApplication1.My.Resources.Resources.thu_vien_WELCOME">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:WindowsApplication1.My.Resources.Resources.unprotectdocument_32x32">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.

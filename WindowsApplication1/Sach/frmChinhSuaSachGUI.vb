@@ -96,7 +96,7 @@ Public Class frmChinhSuaSachGUI
         sachDTO.StrTenSach = txtTenSach.Text
         sachDTO.StrTacGia = txtTacGia.Text
         sachDTO.StrTheLoai = txtTheLoai.Text
-        sachDTO.IDonGiaDuKien = Integer.Parse(txtDonGiaDuKien.Text.Replace(",", ""))
+        sachDTO.IDonGiaDuKien = Integer.Parse(txtDonGiaDuKien.Text.Replace(".", ""))
 
 
         SachBUS.CapNhatSach(sachDTO)

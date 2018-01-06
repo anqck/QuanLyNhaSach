@@ -306,9 +306,11 @@
     </Compile>
     <Compile Include="He Thong\frmWelcome.Designer.vb">
       <DependentUpon>frmWelcome.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="He Thong\frmWelcome.vb">
       <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -423,6 +425,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="He Thong\frmWelcome.resx">
       <DependentUpon>frmWelcome.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\licenses.licx" />
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -479,6 +482,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\thu vien WELCOME1.png" />
     <None Include="Resources\usergroup_32x32.png" />
     <None Include="Resources\unprotectdocument_32x32.png" />
     <None Include="Resources\bouser_32x32.png" />
