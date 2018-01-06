@@ -37,11 +37,11 @@ Public Class frmChinhSuaKhachHangGUI
     End Sub
 
     Private Sub btnChonSach_Click(sender As Object, e As EventArgs) Handles btnChonSach.Click
-        Dim frmChonSach As New frmChonSach()
-        frmChonSach.isMultiSelect = False
-        frmChonSach.ShowDialog()
+        Dim frmchonkhachhang As New frmChonKhachHang()
+        frmchonkhachhang.isMultiSelect = False
+        frmchonkhachhang.ShowDialog()
 
-        If (frmChonSach.selectedMaSach.Count <> 0) Then
+        If (frmchonkhachhang.selectedMaKhachHang.Count <> 0) Then
             txtDienThoai.Enabled = True
             txtEmail.Enabled = True
             txtDiaChi.Enabled = True
@@ -49,7 +49,7 @@ Public Class frmChinhSuaKhachHangGUI
 
             btnLuu.Enabled = True
 
-            Dim khachhangINFO As KhachHangDTO = KhachHangBUS.LayKhachHangDTO(frmChonSach.selectedMaSach(0))
+            Dim khachhangINFO As KhachHangDTO = KhachHangBUS.LayKhachHangDTO(frmchonkhachhang.selectedMaKhachHang(0))
 
             txtMaKH.Text = khachhangINFO.StrMaKhachHang
             txtDienThoai.Text = khachhangINFO.StrDienThoai

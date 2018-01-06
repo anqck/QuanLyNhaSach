@@ -122,6 +122,9 @@ Public Class frmTraCuuKhachHangGUI
 
     Private Sub frmTraCuuKhachHangGUI_Activated(sender As Object, e As EventArgs) Handles MyBase.Activated
         dtHoaDon.Rows.Clear()
+        dtPhieuThuTien.Rows.Clear()
+
+
         dtKhachHang.Rows.Clear()
 
         'Nạp danh sách khách hàng

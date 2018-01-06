@@ -42,7 +42,8 @@
     End Function
 
     Public Shared Function ChuanHoaDieuKienTheoSoTienNo(strSoTienNofr As String, strSoTienNoto As String) As String
-        Dim strCommand As String = " [clmSoTienNo] >= " + (strSoTienNofr)
+
+        Dim strCommand As String = " [clmSoTienNo] >= " + (strSoTienNofr.Replace(".", ""))
         If (strSoTienNoto <> "Tối đa") Then
             strCommand += "AND [clmSoTienNo] <= " + (strSoTienNoto)
         End If
